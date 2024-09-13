@@ -1,0 +1,31 @@
+---
+sidebar_position: 1
+title: Parathënie
+tags: [islam]
+---
+
+## Rreth Librit Dituria
+
+Libri `Dituria` nga Abu Hamid Muhammad ibn Muhammad ibn Muhammad **al-Gazali**
+
+**Përgatiti dhe përktheu:** Is-hak Shala dhe Abdullah B. Ferizi
+
+### Hyrje
+
+**Në emër të Allahut, Mëshirëplotit dhe të Gjithëmëshirshmit!**
+
+Dituria është një nga dhuratat më të çmuara që Allahu ia ka dhënë njeriut.
+Ajo është drita që ndriçon zemrën dhe mendjen, duke i hapur rrugën njeriut drejt përmirësimit të vetes dhe botës rreth tij.
+Që nga fillimi i njerëzimit, dijetarët kanë luajtur një rol thelbësor në udhëzimin e shoqërive dhe në mbrojtjen e vlerave të drejta.
+
+Në një botë ku debati, polemika, propagandat mediatike dhe dëshira për këtë botë kalimtare kanë filluar të zëvendësojnë kërkimin e së vërtetës, ky libër synon të përçojë rëndësinë e dijes së sinqertë dhe të udhëzuar nga parimet e sheriatit.
+
+### Çfarë do të gjeni në këtë libër?
+
+1. Vlerat e larta (fazilet) të diturisë, mësimit,mësuesit dhe dëshmitë mendore.
+2. Diturit të lavdëruara dhe të qortuara.
+3. Dituritë që konsiderohen si të dobishme, e nuk janë.
+4. Për shkaqet pse njerëzit u drejtohen diturive të pa dobishme, shpjegim i detajuar i të këqijave të polemikës dhe debatimit si dhe kushtet kur ato janë të lejuara.
+5. Rregullat e sjelljes (adab) të nxënësit dhe mësuesit.
+6. Shenjat e dijetarëve të ahiretit dhe dijetarëve të këqij.
+7. Nderi i mendjes
