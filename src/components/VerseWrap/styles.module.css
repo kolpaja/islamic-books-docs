@@ -5,11 +5,11 @@
 	align-items: start;
 	gap: 10px;
 	padding: 16px;
-	border: 1px solid #a7f3d0;
+	border: 1px solid var(--bg-green-200);
 	border-radius: 10px;
 	border-left-width: 5px;
 	border-left-color: #166534;
-	background-color: #bbf7d0;
+	background-color: var(--bg-green-200);
 	margin: 8px 0;
 
 	strong {
@@ -31,5 +31,5 @@
 
 .icon {
 	font-size: 24px;
-	color: #422006;
+	color: var(--text-yellow-900);
 }
