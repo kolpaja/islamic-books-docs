@@ -31,3 +31,7 @@ Në një botë ku debati, polemika, propagandat mediatike dhe dëshira për kët
 5. Rregullat e sjelljes (adab) të nxënësit dhe mësuesit.
 6. Shenjat e dijetarëve të ahiretit dhe dijetarëve të këqij.
 7. Nderi i mendjes
+
+<hr />
+
+Burimi: [Libri PDF]('/pdf/imam-gazali-libri-dituria-botimi-viti-2017.pdf')
