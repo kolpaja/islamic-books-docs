@@ -8,6 +8,8 @@ tags: [islam]
 
 Libri `Dituria` nga Abu Hamid Muhammad ibn Muhammad ibn Muhammad **al-Gazali**
 
+![Abu Hamid Muhammad ibn Muhammad ibn Muhammad al-Gazali](/img/AlGhazali.jpeg)
+
 **Përgatiti dhe përktheu:** Is-hak Shala dhe Abdullah B. Ferizi
 
 ### Hyrje

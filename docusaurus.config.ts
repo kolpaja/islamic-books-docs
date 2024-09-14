@@ -3,8 +3,8 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-	title: 'My Site',
-	tagline: 'Dinosaurs are cool',
+	title: 'Islamic Books Collection',
+	tagline: 'My favorite islamic books ',
 	favicon: 'img/favicon.ico',
 
 	// Set the production url of your site here
@@ -69,7 +69,7 @@ const config: Config = {
 			title: 'Islamic Books',
 			logo: {
 				alt: 'My Site Logo',
-				src: 'img/logo.svg',
+				src: 'img/android-icon-48x48.png',
 			},
 			items: [
 				{
