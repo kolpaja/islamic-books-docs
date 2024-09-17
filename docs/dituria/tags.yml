@@ -1,0 +1,14 @@
+dituri:
+  label: Dituri
+  permalink: /dituri
+  description: Knowledge in Islam
+
+kur'an:
+  label: Kur'an
+  permalink: /kuran
+  description: Quran, the holy book of Islam
+
+hadith:
+  label: Hadith
+  permalink: /hadith
+  description: Sayings and traditions of Prophet
