@@ -6,22 +6,22 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 
 type Props = {
-	ayah: string;
+	hadith: string;
 	src: string;
 	url: string;
 };
 
-const VerseWrap = ({ ayah, src, url }: Props) => {
+const HadithWrap = ({ hadith, src, url }: Props) => {
 	return (
-		<div className={clsx('container', styles.wrap)}>
+		<div className={clsx('', styles.wrap)}>
 			<section className=''>
 				<div className={styles.wrapIcon}>
-					<img src='/svg/1620690073الله.svg' className={styles.icon} />
+					<img src='/svg/prophet-name.svg' className={styles.icon} />
 				</div>
-				<strong>Allahu Teala thotë:</strong>
+				<strong>Resulallahu, s.a.v.s., thotë:</strong>
 			</section>
 
-			<p>"{ayah}"</p>
+			<p>"{hadith}"</p>
 
 			<div className={styles.src}>
 				<i>{src}</i>
@@ -34,4 +34,4 @@ const VerseWrap = ({ ayah, src, url }: Props) => {
 	);
 };
 
-export default VerseWrap;
+export default HadithWrap;

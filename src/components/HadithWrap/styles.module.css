@@ -5,12 +5,12 @@
 	align-items: start;
 	gap: 4px;
 	padding: 8px;
-	border: 1px solid var(--bg-wrap-ayah);
+	border: 1px solid var(--bg-wrap-hadith);
 	border-radius: 8px;
 	border-left-width: 5px;
-	border-left-color: var(--bg-border-ayah);
-	background-color: var(--bg-wrap-ayah);
-	margin: 12px 0;
+	border-left-color: var(--bg-border-hadith);
+	background-color: var(--bg-wrap-hadith);
+	margin: 8px 0;
 
 	strong {
 		padding-left: 10px;
